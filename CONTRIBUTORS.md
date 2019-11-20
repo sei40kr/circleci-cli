@@ -16,3 +16,4 @@ We are very grateful to the following people have helped us to build the CLI too
 - [Daniel Ruthardt](https://github.com/DanielRuthardt)
 - [Josef Šimánek](https://github.com/simi)
 - [Brady Sullivan](https://github.com/d1str0)
+- [Seong Yong-ju](https://github.com/sei40kr)
